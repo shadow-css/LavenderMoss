@@ -314,14 +314,14 @@ background: none !important; }
 
 button#label_currentChannel
 {
-    background: #5874eaa1 !important;
-    color: #d7f0ff !important;
-    border: none !important
-    padding: 5px;
-    border: 2px solid #5874ea !important;
-    border-radius: 0px !important;
-    box-shadow: 0px 0px 5px 2px #677bff !important;
-    text-shadow: 0px 0px 0px #2552e1 !important;
+background: #093b0d !important;
+color: #d7f0ff !important;
+border: none !important;
+padding: 5px;
+border: 2px solid #52e125 !important;
+border-radius: 0px !important;
+box-shadow: 0px 0px 5px 2px #4a704d !important;
+text-shadow: 0px 0px 0px #52e125 !important;
 }
 
 .feature {
