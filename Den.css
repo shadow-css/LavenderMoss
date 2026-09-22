@@ -188,7 +188,7 @@ color: #67b567 !important;
 text-align: left !important;
 }
 .comment:nth-child(even) {  
-background: linear-gradient(180deg, #769976 0%, #4d4c00 100%) !important;
+background: linear-gradient(180deg, #769976 0%, #518255 100%) !important;
 }
 
 .text-muted {
@@ -275,13 +275,13 @@ border-radius: 4px !important;
 .s-chat-message:nth-child(odd) {
 background: linear-gradient(180deg, #647f26 0%, #5b864e 100%) !important;
 color: #ffffff !important;
-border: 1px solid #7a1002 !important;
+border: 1px solid #027a0c !important;
 }
 #chatMessageList .s-chat-message:nth-child(even),
 .s-chat-message:nth-child(even) {
 background: linear-gradient(180deg, #496104 0%, #5b864e 100%) !important;
 color: #ffffff !important;
-border: 1px solid #7a1002 !important;
+border: 1px solid #027a0c !important;
 }
 #chatMessageList {
 background: #222303 !important;
